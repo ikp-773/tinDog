@@ -15,6 +15,11 @@ h1 {
   padding: 0 0 0 3%;
 }
 
+p{
+  padding: 3% 10%;
+  line-height: 1.5;
+}
+
 .container-fluid {
   padding: 3% 15%;
 }
@@ -50,7 +55,7 @@ h1 {
 
 /* Features */
 #features{
-  padding-top: 10%;
+  padding-top: 7% 15%;
   text-align: center;
   color: #8f8f8f;
   font-family: "Ubuntu";
@@ -64,15 +69,10 @@ h1 {
   color: #ff4c68;
 }
 
-.feature-title{
+h3{
   padding-top: 8% ;
   font-family: "Montserrat";
   font-size: 1.5rem;
   font-weight: bold;
   color: #000;
-}
-
-p{
-  padding: 3% 10%;
-  line-height: 1.5;
 }
