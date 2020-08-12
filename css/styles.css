@@ -115,5 +115,6 @@ p{
 
 /* Pricing */
 #pricing{
-padding: 5%; 
+  text-align: center;
+padding: 100px;
 }
