@@ -116,9 +116,9 @@ p {
 /* Pricing */
 #pricing {
   text-align: center;
-  padding: 100px;
+  padding: 70px;
 }
 
-.pricing-col {
+.pricing-container {
   margin: 3% 2%;
 }
