@@ -108,3 +108,7 @@ p{
   width: 15%;
   margin: 20px;
 }
+
+.carousel-indicators{
+  padding: 3%;
+}
