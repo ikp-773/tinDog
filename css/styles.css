@@ -23,7 +23,6 @@ h2 {
 }
 
 h3 {
-  padding-top: 8%;
   font-family: "Montserrat";
   font-size: 1.5rem;
   font-weight: bold;
@@ -120,6 +119,6 @@ p {
   padding: 100px;
 }
 
-.pricing-col{
-  margin:3% 2%; 
+.pricing-col {
+  margin: 3% 2%;
 }
