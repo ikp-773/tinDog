@@ -66,14 +66,19 @@ p {
   padding: 15px;
   width: 60%;
   transform: rotate(25deg);
+  position: absolute;
+  z-index: -1;
 }
 
 /* Features */
 #features {
   padding: 7% 15%;
+  background-color: #fff;
   text-align: center;
   color: #8f8f8f;
   font-family: "Ubuntu";
+  position: absolute;
+  z-index: 10;
 }
 
 .fas {
