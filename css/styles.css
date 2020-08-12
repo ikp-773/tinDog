@@ -35,7 +35,7 @@ p {
 }
 
 .container-fluid {
-  padding: 3% 15%;
+  padding: 3% 15% 5% ;
 }
 
 /* Navigation Bar */
@@ -66,6 +66,8 @@ p {
   padding: 15px;
   width: 60%;
   transform: rotate(25deg);
+  position: absolute;
+  right: 25%;
 
 }
 
@@ -76,6 +78,7 @@ p {
   text-align: center;
   color: #8f8f8f;
   font-family: "Ubuntu";
+  position: relative;
 
 }
 
