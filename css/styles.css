@@ -15,6 +15,12 @@ h1 {
   padding: 0 0 0 3%;
 }
 
+h2{
+  font-family: "Montserrat" ;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
 
 h3{
   padding-top: 8% ;
@@ -64,7 +70,7 @@ p{
 
 /* Features */
 #features{
-  padding-top: 7% 15%;
+  padding: 7% 15%;
   text-align: center;
   color: #8f8f8f;
   font-family: "Ubuntu";
@@ -80,7 +86,7 @@ p{
 
 /* Testimonials */
 #testimonials{
-  padding-top: 7% 15%;
+  padding: 7% 15%;
   text-align: center;
   background-color: #ef8172;
   color: #fff;
