@@ -66,8 +66,7 @@ p {
   padding: 15px;
   width: 60%;
   transform: rotate(25deg);
-  position: absolute;
-  z-index: -1;
+
 }
 
 /* Features */
@@ -77,8 +76,7 @@ p {
   text-align: center;
   color: #8f8f8f;
   font-family: "Ubuntu";
-  position: absolute;
-  z-index: 10;
+
 }
 
 .fas {
