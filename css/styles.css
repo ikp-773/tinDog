@@ -130,7 +130,7 @@ p {
 
 /* Action */
 #action {
-  padding: 7% 15%;
+  padding: 7% 25%;
   text-align: center;
   background-color: #ff4c68;
 }
@@ -175,4 +175,6 @@ p {
     position: static;
     width: 70%;
   }
+  #action{
+    padding: 7% 15% ;}
 }
