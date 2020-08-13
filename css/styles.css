@@ -135,7 +135,7 @@ p {
 }
 
 .endtag{
-font-size: 3rem;
+font-size: 2rem;
 font-family: "Montserrat";
 font-weight: 900;
 color: #000;
@@ -144,6 +144,8 @@ color: #000;
 /* Media Query */
 @media (max-width:1135px) {
   #title {
+    padding: 7% 15%;
+
     text-align: center;
   }
 
