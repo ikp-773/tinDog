@@ -134,14 +134,13 @@ p {
   }
 
   h1{
-    font-size: 3.8rem;
-    line-height: 1.2;
+    font-size: 3.7rem;
   }
 
   .title-img {
     transform: rotate(0);
     position: static;
-    width: 80%;
+    width: 70%;
   }
   }
 1
