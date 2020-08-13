@@ -137,10 +137,10 @@ p {
 }
 
 .endtag{
-font-size: 2rem;
+font-size: 2.5rem;
 font-family: "Montserrat";
 font-weight: 900;
-color: #000;
+color: #fff;
 }
 
 /* Media Query */
