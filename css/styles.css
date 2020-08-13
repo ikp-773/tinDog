@@ -131,6 +131,7 @@ p {
 @media (max-width:1135px) {
   #title {
     text-align: center;
+    font-size: 3rem;
   }
 
   .title-img {
@@ -140,7 +141,7 @@ p {
 
   @media (min-width:1040px) {
     h1{
-      font-size: 3rem;
+      font-size: 4rem;
     }
 
   }
