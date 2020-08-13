@@ -144,6 +144,9 @@ p {
 }
 
 /* Footer */
+#footer{
+  text-align: center;
+}
 .bottom-icon {
   color: #8f8f8f;
   padding: 10px;
