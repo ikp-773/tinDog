@@ -131,7 +131,7 @@ p {
 @media (max-width:1135px) {
   #title {
     text-align: center;
-    font-size: 2rem;
+    font-size: 1rem;
     line-height: 1;
   }
 
@@ -141,4 +141,4 @@ p {
     width: 80%;
   }
   }
-}
+1
