@@ -149,12 +149,12 @@ p {
   text-align: center;
 }
 .bottom-icon {
-  color: #8f8f8f;
+  color: #000;
   padding: 10px;
 }
 
 .bottom-icon:hover {
-  color: #000;
+  color: #8f8f8f;
 }
 
 .copyright{
