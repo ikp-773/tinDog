@@ -145,7 +145,7 @@ p {
 
 /* Footer */
 #footer{
-  padding: 7% 15%;
+  padding: 7% 15% 0;
   text-align: center;
 }
 .bottom-icon {
