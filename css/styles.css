@@ -129,9 +129,10 @@ p {
 }
 
 @media (max-width:1135px) {
-  #title{
+  #title {
     text-align: center;
   }
+
   .title-img {
     transform: rotate(0);
     position: static;
