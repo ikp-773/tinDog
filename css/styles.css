@@ -131,11 +131,14 @@ p {
 /* Action */
 #action{
   text-align: center;
+  background-color: #ff4c68;
 }
 
 .endtag{
 font-size: 3rem;
-fo 
+font-family: "Montserrat";
+font-weight: 900;
+color: #000;
 }
 
 /* Media Query */
