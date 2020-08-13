@@ -132,17 +132,12 @@ p {
   #title {
     text-align: center;
     font-size: 3rem;
+    line-height: 1;
   }
 
   .title-img {
     transform: rotate(0);
     position: static;
   }
-
-  @media (min-width:1040px) {
-    h1{
-      font-size: 4rem;
-    }
-
   }
 }
