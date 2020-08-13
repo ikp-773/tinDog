@@ -58,7 +58,7 @@ p {
 
 /* Download Buttons */
 .download-btn {
-  margin: 5% auto;
+  margin: 5% 1%;
 }
 
 /* Title Image */
@@ -136,5 +136,12 @@ p {
   .title-img {
     transform: rotate(0);
     position: static;
+  }
+
+  @media (min-width:1040px) {
+    h1{
+      font-size: 3.8rem;
+    }
+
   }
 }
