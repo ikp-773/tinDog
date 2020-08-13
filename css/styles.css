@@ -133,6 +133,11 @@ p {
   text-align: center;
 }
 
+.endtag{
+font-size: 3rem;
+fo 
+}
+
 /* Media Query */
 @media (max-width:1135px) {
   #title {
