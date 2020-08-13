@@ -144,6 +144,15 @@ font-weight: 800;
 color: #fff;
 }
 
+.bottom-icon{
+  color: #8f8f8f;
+  padding: 10px;
+}
+
+.bottom-icon:hover{
+  color: #000;
+}
+
 /* Media Query */
 @media (max-width:1135px) {
   #title {
