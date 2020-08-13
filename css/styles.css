@@ -35,7 +35,7 @@ p {
 }
 
 .container-fluid {
-  padding: 3% 15% 5% ;
+  padding: 3% 15% 5%;
 }
 
 /* Navigation Bar */
@@ -68,7 +68,6 @@ p {
   transform: rotate(25deg);
   position: absolute;
   right: 25%;
-
 }
 
 /* Features */
@@ -79,7 +78,6 @@ p {
   color: #8f8f8f;
   font-family: "Ubuntu";
   position: relative;
-
 }
 
 .fas {
@@ -128,4 +126,14 @@ p {
 
 .pricing-container {
   margin: 3% auto;
+}
+
+@media (max-width:1135px) {
+  #title{
+    text-align: center;
+  }
+  .title-img {
+    transform: rotate(0);
+    position: static;
+  }
 }
