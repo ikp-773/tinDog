@@ -129,27 +129,27 @@ p {
 }
 
 /* Action */
-#action{
+#action {
   padding: 7% 15%;
-
   text-align: center;
   background-color: #ff4c68;
 }
 
-.endtag{
-font-size: 2.5rem;
-line-height: 1.5;
-font-family: "Montserrat";
-font-weight: 800;
-color: #fff;
+.endtag {
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-family: "Montserrat";
+  font-weight: 800;
+  color: #fff;
 }
 
-.bottom-icon{
+/* Footer */
+.bottom-icon {
   color: #8f8f8f;
   padding: 10px;
 }
 
-.bottom-icon:hover{
+.bottom-icon:hover {
   color: #000;
 }
 
