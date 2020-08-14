@@ -144,10 +144,11 @@ p {
 }
 
 /* Footer */
-#footer{
-  padding: 2% 15% ;
+#footer {
+  padding: 2% 15%;
   text-align: center;
 }
+
 .bottom-icon {
   color: #000;
   margin: 10px;
@@ -157,9 +158,10 @@ p {
   color: #8f8f8f;
 }
 
-.copyright{
-  padding: 0 ;
+.copyright {
+  padding: 0;
 }
+
 /* Media Query */
 @media (max-width:1135px) {
   #title {
@@ -176,8 +178,10 @@ p {
     width: 70%;
   }
 
-  #action{
-    padding: 7% 15% ;}
-    .endtag {
-      font-size: 2rem;
-}
+  #action {
+    padding: 7% 15%;
+  }
+
+  .endtag {
+    font-size: 2rem;
+  }
