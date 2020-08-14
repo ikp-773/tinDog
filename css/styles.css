@@ -163,6 +163,7 @@ p {
 }
 
 /* Media Query */
+
 @media (max-width:1135px) {
   #title {
     text-align: center;
