@@ -1,2 +1,2 @@
 # tinDog
----> For Dogs ;P
+---> For Dogs ;p
