@@ -1,5 +1,5 @@
 # tinDog
 
-Dating Site for Dogs
+Dating Site for Dogs.
 
 Trying out BootStrap
