@@ -1,3 +1,3 @@
 # tinDog
 
-Dating Site
+Dating Site for Dogs
