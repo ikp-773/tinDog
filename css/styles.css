@@ -2,10 +2,6 @@
   background-color: #ff4c68;
 }
 
-
-
-
-
 body {
   font-family: 'Montserrat';
 }
@@ -167,7 +163,6 @@ p {
 }
 
 /* Media Query */
-
 @media (max-width:1135px) {
   #title {
     text-align: center;
